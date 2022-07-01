@@ -6,7 +6,7 @@
 :art: Art <br>
 :notes: Music <br>
 :computer: Coding <br>
-:cat2: Cats <br><br>
+:cat2: Cats
 
 ## Code/mark languages
 - C#
