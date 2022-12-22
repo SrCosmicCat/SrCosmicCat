@@ -12,12 +12,15 @@ https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT?si=b949f885952a4d51
 
 ## Code/mark languages
 - C#
-- CSS
-- GDScript
+- C++
 - HTML
-- Java
+- CSS
 - JavaScript
+- GDScript
+- Java
+- Kotlin
 - Python
+- Matlab
 
 ## Languages
 - Spanish
